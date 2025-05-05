@@ -1,9 +1,2 @@
-.idea/
-.vscode
-**/__pycache__/
-.terraform/
-.terraform.lock.hcl
-models
-vector_storage
 .env
 mvenv/
