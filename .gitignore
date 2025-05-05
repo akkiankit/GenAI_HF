@@ -6,4 +6,4 @@
 models
 vector_storage
 .env
-.mvenv
+mvenv/
